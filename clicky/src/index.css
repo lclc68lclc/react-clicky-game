@@ -1,0 +1,46 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+img {
+  max-width: 100%;
+  max-height: 
+}
+
+a {
+  color: #fff;
+
+}
+
+.row,
+.column {
+  display: flex;
+}
+
+.column {
+  flex-direction: column;
+}
+
+.split {
+  justify-content: space-between;
+}
+
+.y-center {
+  align-items: center;
+}
+
+header {
+  background: #444;
+  color: #fff;
+}

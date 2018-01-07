@@ -1,0 +1,62 @@
+[{
+        "id": 1,
+        "image": "https://www.disneyclips.com/imagesnewb/images/clipgummibears.gif",
+        "name": "alldabears"
+    },
+    {
+        "id": 2,
+        "image": "https://vignette.wikia.nocookie.net/powerlisting/images/f/f6/Cubbi_Gummi_profile_image.jpg/revision/latest?cb=20151109132433",
+        "name": "cubbi"
+    },
+    {
+        "id": 3,
+        "image": "https://vignette.wikia.nocookie.net/p__/images/2/2f/Sunni.png/revision/latest?cb=20170128014447&path-prefix=protagonist",
+        "name": "sunni"
+    },
+    {
+        "id": 4,
+        "image": "https://www.disneyclips.com/imagesnewb/images/clipcalla.gif",
+        "name": "Calla"
+    },
+    {
+        "id": 5,
+        "image": "http://static.tvtropes.org/pmwiki/pub/images/zummi_3076.png",
+        "name": "Zummi"
+    },
+    {
+        "id": 6,
+        "image": "https://www.disneyclips.com/imagesnewb/images/clipgran2.gif",
+        "name": "Gran"
+    },
+    {
+        "id": 7,
+        "image": "https://vignette.wikia.nocookie.net/disney/images/1/10/Duke_Igthorn_clip_art_01.gif/revision/latest?cb=20140322112047",
+        "name": "Igthorn"
+    },
+    {
+        "id": 8,
+        "image": "http://vignette2.wikia.nocookie.net/p__/images/2/22/Gruffi.jpg/revision/latest?cb=20150110150936&path-prefix=protagonist",
+        "name": "gruffi"
+    },
+    {
+        "id": 9,
+        "image": "https://s-media-cache-ak0.pinimg.com/originals/c0/dd/d3/c0ddd34bbe7f68c7d9126d1d7b8bf24c.gif",
+        "name": "Cavin"
+    },
+    {
+        "id": 10,
+        "image": "https://pre00.deviantart.net/5e42/th/pre/i/2012/107/9/f/gusto_gummi_by_jaymzeecat-d4wicij.jpg",
+        "name": "gusto"
+    },
+    {
+        "id": 11,
+        "image": "https://vignette.wikia.nocookie.net/disneyvillains/images/4/4d/Toadwart.png/revision/latest?cb=20141013140904",
+        "name": "Toadwart"
+    },
+    {
+        "id": 12,
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz1vc8WgUY_gqNNx1kz6CdhIzm7fqxYgykNi3yV9Jk88ifrk2H",
+        "name": "King Gregor"
+    }
+
+]
