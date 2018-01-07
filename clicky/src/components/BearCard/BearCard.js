@@ -2,10 +2,8 @@ import React from "react";
 import "./BearCard.css";
 
 const BearCard = props => (
-    <div className="thumbnail">
-        <a href="#" onClick={props.shuffle}>
+    <div className="card">
             <img alt={props.name} src={props.image} />
-        </a>
     </div>
 );
 
