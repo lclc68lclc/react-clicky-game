@@ -3,7 +3,7 @@ import "./BearCard.css";
 
 const BearCard = props => (
     <div className="card">
-            <img alt={props.name} src={props.image} />
+        <img id={props.id} onClick= {props.shuffle} alt={props.name} src={props.image} />
     </div>
 );
 
